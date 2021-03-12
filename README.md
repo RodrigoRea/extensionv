@@ -3,6 +3,11 @@ Write values ​​in full. Description of a numeric value
 
 Descreve um numero por extenso no tipo moeda brasileira (Real R$)
 
+Limitado ao número de caracteres enviado para a função - Máximo da descrição: trilhões
+
+A solução é retornar um valor do tipo float para a descrição em reais 
+Ex: 2.47 => dois reais quarenta e sete centavos
+
 # Install 
 <pre>
   go get github.com/RodrigoRea/extensionv
