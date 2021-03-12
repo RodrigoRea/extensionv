@@ -1,4 +1,4 @@
-# extensionv
+# extensionv - Golang
 Write values ​​in full. Description of a numeric value
 
 Descreve um numero por extenso no tipo moeda brasileira (Real R$)
