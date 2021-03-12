@@ -1,5 +1,5 @@
 # extensionv - Golang
-Write values ​​in full. Description of a numeric value
+Write values ​​in full. Description of a numeric value (BRL - R$ Brazil)
 
 Descreve um numero por extenso no tipo moeda brasileira (Real R$)
 
